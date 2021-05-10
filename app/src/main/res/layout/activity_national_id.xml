@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".NationalID"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/schedule_a_meeting"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="80dp"
+        android:textSize="30sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="200dp"
+       >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/national_id_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:textColor="@color/black"
+            android:hint="@string/national_id"
+            android:inputType="number"
+            android:textSize="20sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/text1">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/password_1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:layout_margin="15dp"
+            android:ems="10"
+            android:hint="@string/Password"
+            android:textSize="20sp"
+            android:inputType="textPassword"/>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <TextView
+        android:id="@+id/register_click"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="300dp"
+        android:text="@string/Regestier"
+        android:clickable="true"
+        android:layout_marginEnd="20dp"
+        android:gravity="end"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="350dp"
+        android:textSize="16sp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:background="#99FFFFFF"
+            android:textColor="@color/colorPrimaryDark"
+            android:id="@+id/next_button_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="@string/next"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

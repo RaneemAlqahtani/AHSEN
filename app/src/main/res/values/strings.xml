@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">احسِن</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="normal_map" translatable="false">Normal MAp</string>
+    <string name="hybrid_map" translatable="false">Hybrid Map</string>
+    <string name="satellite_map" translatable="false">satelite map</string>
+    <string name="terrain_map" translatable="false">terrain map</string>
+        <string name="Call">  Call</string>
+        <string name="FinancialS">  Financial Support</string>
+        <string name="ScheduleM">Schedule a Meeting</string>
+        <string name="iban_number">IBAN Number:</string>
+        <string name="OAN">Accounts Infromation</string>
+        <string name="NationalId">National ID</string>
+        <string name="next">Next</string>
+        <string name="name">Name</string>
+        <string name="email">Email</string>
+        <string name="Password">Password</string>
+        <string name="ConfirmPass">Confirm Password</string>
+        <string name="Phone_num">Phone Number</string>
+        <string name="Male">Male</string>
+        <string name="Female">Female</string>
+        <string name="Done">Done</string>
+        <string name="Reason">Reason For Your Meeting</string>
+        <string name="Send">Send</string>
+        <string name="action_settings">Settings</string>
+        <string name="English">English</string>
+        <string name="Arabic">Arabic</string>
+        <string name="languages">Languages</string>
+        <string name="Update">Update Information</string>
+        <string name="About_us">About us</string>
+        <string name="empty_fields">Fill all information first</string>
+        <string name="email_or_password_is_wrong">National ID or password is wrong</string>
+        <string name="bank">Bank:</string>
+        <string name="ContactNum">Contact Info:</string>
+        <string name="allcities">All Cities</string>
+    <string name="Regestier">Register?</string>
+    <string name="schedule_a_meeting">Schedule a Meeting</string>
+    <string name="about_us">About Us</string>
+    <string name="financial_support">Financial Support</string>
+    <string name="call">Contact</string>
+    <string name="national_id">National ID</string>
+    <string name="password">Password</string>
+    <string name="find_us">Find us</string>
+    <string name="GenderMsg">Please fill all fields</string>
+    <string name="ok">OK</string>
+    <string name="not_registered">You are not registered</string>
+    <string name="why">Why</string>
+
+
+</resources>

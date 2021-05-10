@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">احسِن</string>
+    <string name="FinancialS">دعم مالي</string>
+    <string name="Call">اتصال</string>
+    <string name="ScheduleM">حجز موعد</string>
+    <string name="OAN">معلومات حساب الدار</string>
+    <string name="NationalId">الهوية الوطنية</string>
+    <string name="name">الأسم</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="Password">كلمة السر</string>
+    <string name="ConfirmPass">تأكيد كلمة السر</string>
+    <string name="Phone_num">رقم الهاتف</string>
+    <string name="Male">ذكر</string>
+    <string name="Female">انثى</string>
+    <string name="Done">انتهاء</string>
+    <string name="Reason">سبب طلب المقابله</string>
+    <string name="Send">ارسال</string>
+    <string name="action_settings">الأعدادت</string>
+    <string name="English">الإنجليزيه</string>
+    <string name="Arabic">العربيه</string>
+    <string name="languages">اللغات</string>
+    <string name="Update">تحديث المعلومات</string>
+    <string name="bank">البنك</string>
+    <string name="email_or_password_is_wrong">خطأ في رقم الاحوال او كلمة السر.</string>
+    <string name="empty_fields">الرجاء تعبئة جميع الحقول.</string>
+    <string name="About_us">نبذة عنا</string>
+    <string name="iban_number">رقم الأيبان:</string>
+    <string name="ContactNum">معلومات التواصل:</string>
+    <string name="allcities">جميع المدن</string>
+    <string name="Regestier">تسجيل؟</string>
+    <string name="about_us">نبذة عنّا</string>
+    <string name="call">تواصل</string>
+    <string name="financial_support">دعم مادي</string>
+    <string name="schedule_a_meeting">حجز موعد</string>
+    <string name="national_id">رقم الهوية</string>
+    <string name="password">كلمة السر</string>
+    <string name="next">التالي</string>
+    <string name="find_us">الموقع</string>
+    <string name="GenderMsg">الرجاء تعبئة جميع الحقول</string>
+    <string name="ok">حسناً</string>
+    <string name="not_registered">انت لست مسجل بالنظام</string>
+    <string name="why">السبب؟</string>
+</resources>

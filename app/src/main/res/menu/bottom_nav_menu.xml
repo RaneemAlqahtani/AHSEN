@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_AboutUs"
+        android:icon="@drawable/house"
+        android:title="@string/about_us" />
+
+    <item
+        android:id="@+id/navigation_SM"
+        android:icon="@drawable/calendar"
+        android:title="@string/schedule_a_meeting" />
+
+    <item
+        android:id="@+id/navigation_FS"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/financial_support" />
+    <item
+        android:id="@+id/navigation_call"
+        android:icon="@drawable/call"
+        android:title="@string/call" />
+</menu>
